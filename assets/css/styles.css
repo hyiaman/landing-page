@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+  }
+  
+  header {
+    background-color: #007BFF;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    text-align: center;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .intro-section {
+    text-align: center;
+    padding: 100px 0;
+    background: url('../images/cover-image.jpg') no-repeat center center/cover;
+  }
+  
+  .intro-section h1 {
+    color: rgb(156, 21, 193);
+    font-size: 48px;
+  }
+  
+  .intro-section p {
+    color: rgb(140, 18, 165);
+    font-size: 18px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+  }
+  
+  .features-section {
+    padding: 50px 0;
+    background-color: #f5f5f5;
+    text-align: center;
+  }
+  
+  .feature {
+    margin: 20px;
+  }
+  
+  .feature img {
+    max-width: 100%;
+  }
+  
+  .about-section {
+    padding: 50px 0;
+    background-color: #ffffff;
+    text-align: center;
+  }
+  
+  .about-section ul {
+    list-style: none;
+    text-align: center;
+  }
+  
+  .about-section ul li {
+    display: inline-block;
+    margin: 0 15px;
+  }
+
+  footer {
+    background-color: #007BFF;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  
